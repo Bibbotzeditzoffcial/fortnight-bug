@@ -1,2 +1,1 @@
-# fortnight-bug
-Script for bug bot
+# fortnight-bug GAGAL
